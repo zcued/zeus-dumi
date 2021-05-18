@@ -18,8 +18,3 @@
 | --------------------- | ------------ | -------------------------------------------------------------------- |
 | `npm run start`       | 项目启动     | 使用 [dumi](https://github.com/umijs/dumi)，组件开发和文档开发在一起 |
 | `npm run prettier`    | 代码美化     | -                                                                    |
-| `npm run build`       | 组件打包     | 使用 [father](https://github.com/umijs/father) 工具                  |
-| `npm run release`     | 组件打包发布 | -                                                                    |
-| `npm run docs:build`  | 文档打包     | -                                                                    |
-| `npm run docs:deploy` | 文档发布     | 这里默认是使用了 GitHub Pages                                        |
-| `npm run deploy`      | 文档打包发布 | -                                                                    |
