@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'zeus-ui';
+const repo = 'zeus-dumi';
 
 export default defineConfig({
   title: repo,
