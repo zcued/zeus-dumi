@@ -16,5 +16,5 @@
 
 | 名称                  | 描述         | 备注                                                                 |
 | --------------------- | ------------ | -------------------------------------------------------------------- |
-| `npm run start`&#124;`yarn start`       | 项目启动     | 使用 [dumi](https://github.com/umijs/dumi)，组件开发和文档开发在一起 |
+| `npm run start`&#124;`yarn start`       | 项目启动     | 使用 [dumi](https://github.com/umijs/dumi)，设置为doc模式，只包含文档开发 |
 | `npm run prettier`    | 代码美化     | -                                                                    |
