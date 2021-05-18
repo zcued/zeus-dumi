@@ -4,8 +4,8 @@ const repo = 'zeus-ui';
 
 export default defineConfig({
   title: repo,
-  favicon: 'https://z3.ax1x.com/2021/05/17/gRIp0s.jpg',
-  logo: 'https://z3.ax1x.com/2021/05/17/gRIp0s.jpg',
+  favicon: 'https://z3.ax1x.com/2021/05/18/gf0Ea4.png',
+  logo: 'https://z3.ax1x.com/2021/05/18/gf0Ea4.png',
   outputPath: 'docs-dist',
   mode: 'doc',
   hash: true,

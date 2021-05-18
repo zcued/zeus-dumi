@@ -185,4 +185,4 @@ export default () => {
 | disabled | 是否禁用按钮                            | boolean            | false     |
 | icon     | 图标类型                                | string             | -         |
 | iconSize | 图标大小                                | number             | 26        |
-| onClick  | 出发用户的点击事件                      | function           | -         |
+| onClick  | 触发用户的点击事件                      | function           | -         |
