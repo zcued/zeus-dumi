@@ -16,5 +16,6 @@ export default defineConfig({
   styles: [
     `.markdown table { width:50%!important }`,
     `space { display: block; margin-bottom: 16px; }`,
+    `.card-wh { display: inline-block; width: 500px!important }`,
   ],
 });
